@@ -1,0 +1,16 @@
+{
+    "name": "Lost Dapp",
+    "blocks": {
+        "/blockchain/polygon": true,
+        "/blockchain/polygon/solidity": true,
+        "/framework/vanilla": true,
+        "/category/access_control/core-administrator_role": true,
+        "/category/access_control/core-contract_access": true,
+        "/category/access_control/core-contract_runstate": true,
+        "/category/asset_value_tracking/core-token": true,
+        "/category/asset_value_tracking/core-token/name": "Lost Token",
+        "/category/asset_value_tracking/core-token/symbol": "LOST",
+        "/category/asset_value_tracking/core-token/decimals": "16",
+        "/category/asset_value_tracking/core-token/supply": "100000"
+    }
+}
